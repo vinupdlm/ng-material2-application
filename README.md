@@ -9,3 +9,12 @@
 *cd npm start
 
 **Run the project on browser using "npm start"**
+
+
+## References
+
+*[Angular Material2 Tutorial](https://alligator.io/angular/angular-material-2/)
+
+*[Plunkr](http://plnkr.co/edit/o077B6uEiiIgkC0S06dd?p=preview)
+
+
